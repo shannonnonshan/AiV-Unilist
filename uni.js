@@ -1,3 +1,5 @@
+
+<select id="uni">
 <option value='Hanoi - Đại học Quốc gia Hà Nội (Vietnam National University)'>Hanoi - Đại học Quốc gia Hà Nội (Vietnam National University)</option>
 <option value='Hanoi - Đại học Quốc gia Hà Nội (Vietnam National University)'>Hanoi - Đại học Quốc gia Hà Nội (Vietnam National University)</option>
 <option value='Hanoi - Đại học Hà Nội + LaTrobe (Hanoi University + LaTrobe)'>Hanoi - Đại học Hà Nội + LaTrobe (Hanoi University + LaTrobe)</option>
@@ -244,3 +246,4 @@
 <option value='Can Tho - Cao đẳng Nghề Việt Mỹ'>Can Tho - Cao đẳng Nghề Việt Mỹ</option>
 <option value='Can Tho - Cao đẳng Y tế Cần Thơ'>Can Tho - Cao đẳng Y tế Cần Thơ</option>
 <option value='Can Tho - Cao đẳng nghề Du lịch Cần Thơ'>Can Tho - Cao đẳng nghề Du lịch Cần Thơ</option>
+</select>
