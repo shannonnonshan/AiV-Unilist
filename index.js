@@ -1,6 +1,3 @@
-
-<select id="uni">
-<option value='Hanoi - Đại học Quốc gia Hà Nội (Vietnam National University)'>Hanoi - Đại học Quốc gia Hà Nội (Vietnam National University)</option>
 <option value='Hanoi - Đại học Quốc gia Hà Nội (Vietnam National University)'>Hanoi - Đại học Quốc gia Hà Nội (Vietnam National University)</option>
 <option value='Hanoi - Đại học Hà Nội + LaTrobe (Hanoi University + LaTrobe)'>Hanoi - Đại học Hà Nội + LaTrobe (Hanoi University + LaTrobe)</option>
 <option value='Hanoi - Học viện Ngân hàng (Banking Academy)'>Hanoi - Học viện Ngân hàng (Banking Academy)</option>
@@ -47,7 +44,7 @@
 <option value='Hanoi - Đại học Dược Hà Nội (Hanoi University of Pharmacy)'>Hanoi - Đại học Dược Hà Nội (Hanoi University of Pharmacy)</option>
 <option value='Hanoi - Đại học Điện lực (Electric Power University)'>Hanoi - Đại học Điện lực (Electric Power University)</option>
 <option value='Hanoi - Đại học Lâm nghiệp (Vietnam Forestry University)'>Hanoi - Đại học Lâm nghiệp (Vietnam Forestry University)</option>
-<option value='Hanoi - Học viện An ninh Nhân dân (People's Police Academy)'>Hanoi - Học viện An ninh Nhân dân (People's Police Academy)</option>
+<option value='Hanoi - Học viện An ninh Nhân dân (Peoples Police Academy)'>Hanoi - Học viện An ninh Nhân dân (People's Police Academy)</option>
 <option value='Hanoi - Học viện Hành chính Quốc gia (National Academy of Public Administration)'>Hanoi - Học viện Hành chính Quốc gia (National Academy of Public Administration)</option>
 <option value='Hanoi - Học viện Y Dược học cổ truyền Việt Nam (Vietnam University of Traditional Medicine)'>Hanoi - Học viện Y Dược học cổ truyền Việt Nam (Vietnam University of Traditional Medicine)</option>
 <option value='Hanoi - Đại học Giao thông vận tải HN (University of Communications and Transport)'>Hanoi - Đại học Giao thông vận tải HN (University of Communications and Transport)</option>
@@ -220,7 +217,7 @@
 <option value='HCMC - Viện đào tạo quốc tế đại học Nguyễn Tất Thành (Nguyen Tat Thanh Institute of International Education)'>HCMC - Viện đào tạo quốc tế đại học Nguyễn Tất Thành (Nguyen Tat Thanh Institute of International Education)</option>
 <option value='HCMC - Đại học công nghệ Sài Gòn (Saigontech)'>HCMC - Đại học công nghệ Sài Gòn (Saigontech)</option>
 <option value='HCMC - Đại học Văn hóa (Ho Chi Minh City University of Culture)'>HCMC - Đại học Văn hóa (Ho Chi Minh City University of Culture)</option>
-<option value='HCMC - Đại học Cảnh Sát Nhân Dân (People's Police University)'>HCMC - Đại học Cảnh Sát Nhân Dân (People's Police University)</option>
+<option value='HCMC - Đại học Cảnh Sát Nhân Dân (Peoples Police University)'>HCMC - Đại học Cảnh Sát Nhân Dân (People's Police University)</option>
 <option value='HCMC - Cao đẳng nghề Việt Mỹ (Vietnamese American Training College)'>HCMC - Cao đẳng nghề Việt Mỹ (Vietnamese American Training College)</option>
 <option value='HCMC - Học viện hành chính quốc gia (Ho Chi Minh National Academy of Politics and Public Administration)'>HCMC - Học viện hành chính quốc gia (Ho Chi Minh National Academy of Politics and Public Administration)</option>
 <option value='HCMC - Đại học An Ninh nhân dân'>HCMC - Đại học An Ninh nhân dân</option>
@@ -246,7 +243,4 @@
 <option value='Can Tho - Cao đẳng Nghề Việt Mỹ'>Can Tho - Cao đẳng Nghề Việt Mỹ</option>
 <option value='Can Tho - Cao đẳng Y tế Cần Thơ'>Can Tho - Cao đẳng Y tế Cần Thơ</option>
 <option value='Can Tho - Cao đẳng nghề Du lịch Cần Thơ'>Can Tho - Cao đẳng nghề Du lịch Cần Thơ</option>
-<<<<<<< HEAD:uni.js
-</select>
-=======
->>>>>>> b62f963bf691a67d0f0fad11d29ead44d85923bd:index.js
+
