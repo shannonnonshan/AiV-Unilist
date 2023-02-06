@@ -246,4 +246,7 @@
 <option value='Can Tho - Cao đẳng Nghề Việt Mỹ'>Can Tho - Cao đẳng Nghề Việt Mỹ</option>
 <option value='Can Tho - Cao đẳng Y tế Cần Thơ'>Can Tho - Cao đẳng Y tế Cần Thơ</option>
 <option value='Can Tho - Cao đẳng nghề Du lịch Cần Thơ'>Can Tho - Cao đẳng nghề Du lịch Cần Thơ</option>
+<<<<<<< HEAD:uni.js
 </select>
+=======
+>>>>>>> b62f963bf691a67d0f0fad11d29ead44d85923bd:index.js
