@@ -1,3 +1,7 @@
+<option value="">Chọn ...</option> 
+    
+<option value="other--uni-2">Khác</option>
+
 <option value='Hanoi - Đại học Quốc gia Hà Nội (Vietnam National University)'>Hanoi - Đại học Quốc gia Hà Nội (Vietnam National University)</option>
 <option value='Hanoi - Đại học Hà Nội + LaTrobe (Hanoi University + LaTrobe)'>Hanoi - Đại học Hà Nội + LaTrobe (Hanoi University + LaTrobe)</option>
 <option value='Hanoi - Học viện Ngân hàng (Banking Academy)'>Hanoi - Học viện Ngân hàng (Banking Academy)</option>
