@@ -231,7 +231,12 @@
 <option value='HCMC - Cao đẳng Điện lực TP.HCM'>HCMC - Cao đẳng Điện lực TP.HCM</option>
 <option value='HCMC - Cao đẳng Kinh tế Kỹ thuật TP. Hồ Chí Minh'>HCMC - Cao đẳng Kinh tế Kỹ thuật TP. Hồ Chí Minh</option>
 <option value='HCMC - Cao đẳng Phát thanh Truyền hình 2'>HCMC - Cao đẳng Phát thanh Truyền hình 2</option>
-<option value='HCMC - Cao đẳng Xây dựng số 2'>HCMC - Cao đẳng Xây dựng số 2</option><option value='Can Tho - Đại Học Cần Thơ'>Can Tho - Đại Học Cần Thơ</option>
+<option value='HCMC - Cao đẳng Xây dựng số 2'>HCMC - Cao đẳng Xây dựng số 2</option>
+<option value='HCMC - UEH-ISB International School of Business - Viện Đào tạo Quốc tế, trực thuộc Đại học Kinh tế TP HCM'>HCMC - UEH-ISB International School of Business - Viện Đào tạo Quốc tế, trực thuộc Đại học Kinh tế TP HCM</option>
+<option value='HCMC - WSU - Western Sydney University - Vietnam Campus'>HCMC - WSU - Western Sydney University - Vietnam Campus</option>
+<option value='HCMC - Đại học Giao thông vận tải (UTH - University of Transport and Communication - Campus II)'>HCMC - Đại học Giao thông vận tải (UTH - University of Transport and Communication - Campus II)</option>
+<option value='HCMC - Đại học Swinburne (Swinburne Vietnam)'>HCMC - Đại học Swinburne (Swinburne Vietnam)</option>
+<option value='Can Tho - Đại Học Cần Thơ'>Can Tho - Đại Học Cần Thơ</option>
 <option value='Can Tho - Đại học Y Dược Cần Thơ'>Can Tho - Đại học Y Dược Cần Thơ</option>
 <option value='Can Tho - Đại học Y Dược Cần Thơ'>Can Tho - Đại học Y Dược Cần Thơ</option>
 <option value='Can Tho - Đại Học Nam Cần Thơ'>Can Tho - Đại Học Nam Cần Thơ</option>
@@ -247,4 +252,5 @@
 <option value='Can Tho - Cao đẳng Nghề Việt Mỹ'>Can Tho - Cao đẳng Nghề Việt Mỹ</option>
 <option value='Can Tho - Cao đẳng Y tế Cần Thơ'>Can Tho - Cao đẳng Y tế Cần Thơ</option>
 <option value='Can Tho - Cao đẳng nghề Du lịch Cần Thơ'>Can Tho - Cao đẳng nghề Du lịch Cần Thơ</option>
+<option value='Can Tho - Đại hoc FPT Cần Thơ (FPT - FPT University)'>Can Tho - Đại hoc FPT Cần Thơ (FPT - FPT University)</option>
 
